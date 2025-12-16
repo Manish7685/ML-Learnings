@@ -1,4 +1,4 @@
-# 📘 Day 2 - pandas Data Cleaning (Titanic Dataset)
+# 📘 Day 2 - Pandas Data Cleaning (Titanic Dataset)
 This folder contains my work for Day 2 of Week 1, where i learned how to clean a real-world dataset using Pandas.
 
 ## 🎯 Goals of Day 2
