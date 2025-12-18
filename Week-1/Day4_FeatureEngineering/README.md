@@ -63,7 +63,7 @@ This is a powerful predictor in Titanic ML models.
 ### 4. **Dropped Irrelevant Columns**
 Removed columns that do not provide predictive value:
 - `SibSp`
-- 'Parch'
+- `Parch`
 
 These columns are identifiers or unstructured text and do not help the model.
 
