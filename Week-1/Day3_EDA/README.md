@@ -48,4 +48,6 @@ This folder contains the full EDA performed on the cleaned Titanic Dataset
 
 ## Files in Folder
 
-1. Day3_Titanic_EDA.ipynb - full EDA Notebook
+- Day3_Titanic_EDA.ipynb - full EDA Notebook
+
+---

@@ -67,7 +67,7 @@ Extracted and visualized logistic regression coefficients to understand which fa
 
 ## 📁 Files in This Directory
 
-Day5_Titanic_LogisticRegression.ipynb
-README.md
+- Day5_Titanic_LogisticRegression.ipynb
+- README.md
 
 ---
