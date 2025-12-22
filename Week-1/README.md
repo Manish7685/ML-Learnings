@@ -1,19 +1,21 @@
+# 📘 Week 1 — Titanic Machine Learning Pipeline
+
+This week marks the beginning of the end-to-end Machine Learning journey.  
+We completed a full ML workflow using the Titanic Dataset — from Numpy & Pandas basics all the way to training and optimizing multiple ML models.
+
+The goal of Week 1 was to build a strong foundation in:
+- Data Handling  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Classical ML Models  
+- Model Evaluation  
+- Hyperparameter Tuning  
+- GitHub Workflow  
 
 ---
 
-## 🎯 Final Summary
+# 🗂️ Week 1 Structure
 
-Day 7 completes the Titanic ML pipeline with professional-level model optimization.  
-You now understand:
-
-- How to tune machine learning models  
-- How to evaluate model improvements  
-- How to save and reuse trained models  
-- How to compare multiple models systematically  
-
-Your Random Forest model is now **fully optimized and production-ready**.
-
----
 
 Week-1/
 ├── Day1_Numpy/
